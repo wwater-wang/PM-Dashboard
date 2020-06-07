@@ -1,5 +1,8 @@
 # PM Dashboard的前因後果
 或者先點我玩玩看 -> https://tabsoft.co/3d8VREq
+
+![image](https://github.com/wwater-wang/PM-Dashboard/blob/master/Demo.gif)
+
 ### PM的資訊焦慮
 作為PM菜鳥最大的痛苦，就是網路上有永遠讀不完的文章、所帶來的資訊焦慮，  
 而筆者原先作為數據分析師，因故開始接觸數據產品而想學習PM相關資訊，當然也進入了這萬惡地獄...
